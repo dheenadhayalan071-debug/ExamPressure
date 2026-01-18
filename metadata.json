@@ -1,0 +1,8 @@
+{
+  "name": "ExamPressure",
+  "description": "A high-stakes, strict exam preparation tool designed for examiner-grade neutral performance tracking with AI-powered analysis and recovery modes.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
